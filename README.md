@@ -26,8 +26,8 @@ Step 7: End the program
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: R.Sanjana
-RegisterNumber:212223240148
+Developed by: Santhosh Kumar R
+RegisterNumber: 212223100051
 */
 import pandas as pd
 import numpy as np
